@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<head>
+<title>Death</title>
+</head>
+<body>
+Death is inevitable
+</body>
+</html>

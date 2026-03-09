@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<head>
+<title>Offer </title>
+</head>
+<body>
+The project Offer is applicable
+</body>
+</html>

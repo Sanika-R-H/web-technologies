@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<head>
+<title>Hotel </title>
+</head>
+<body>
+The Hotel has great food options
+</body>
+</html>

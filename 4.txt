@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<head>
+<title>Mall </title>
+</head>
+<body>
+The malls are fantastic
+</body>
+</html>

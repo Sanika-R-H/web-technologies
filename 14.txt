@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<head>
+<title>Corporate</title>
+</head>
+<body>
+The corporate life is not easy
+</body>
+</html>

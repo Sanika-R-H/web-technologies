@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<head>
+<title>Holi </title>
+</head>
+<body>
+The Holi is festival of colours
+</body>
+</html>
