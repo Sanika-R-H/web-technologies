@@ -1,8 +1,0 @@
-<!DOCTYPE html>
-<head>
-<title>Cartoon </title>
-</head>
-<body>
-The Cartoon characters are funny
-</body>
-</html>

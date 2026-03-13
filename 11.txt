@@ -1,8 +1,0 @@
-<!DOCTYPE html>
-<head>
-<title>Perfumes </title>
-</head>
-<body>
-I like perfumes
-</body>
-</html>

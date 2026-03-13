@@ -1,8 +1,0 @@
-<!DOCTYPE html>
-<head>
-<title>WW3</title>
-</head>
-<body>
-ww3 might happen
-</body>
-</html>

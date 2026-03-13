@@ -1,8 +1,0 @@
-<!DOCTYPE html>
-<head>
-<title>Metro </title>
-</head>
-<body>
-The metro is ready to leave
-</body>
-</html>

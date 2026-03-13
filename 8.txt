@@ -1,8 +1,0 @@
-<!DOCTYPE html>
-<head>
-<title>Car </title>
-</head>
-<body>
-The car is moving
-</body>
-</html>

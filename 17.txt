@@ -1,8 +1,0 @@
-<!DOCTYPE html>
-<head>
-<title>Walk </title>
-</head>
-<body>
-10k steps is essential
-</body>
-</html>

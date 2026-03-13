@@ -1,8 +1,0 @@
-<!DOCTYPE html>
-<head>
-<title>Demo </title>
-</head>
-<body>
-The project demo is ready
-</body>
-</html>
